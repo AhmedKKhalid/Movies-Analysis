@@ -26,4 +26,5 @@
 * What are the most 10 movies that have budget less than revenues ?
 
 # EDA
-![](https://github.com/AhmedKKhalid/Movies-Analysis/blob/main/Screen_shot/1.PNG) ![](https://github.com/AhmedKKhalid/Movies-Analysis/blob/main/Screen_shot/2.PNG)
+![](https://github.com/AhmedKKhalid/Movies-Analysis/blob/main/Screen_shot/1.PNG)  ![](https://github.com/AhmedKKhalid/Movies-Analysis/blob/main/Screen_shot/2.PNG)
+![](https://github.com/AhmedKKhalid/Movies-Analysis/blob/main/Screen_shot/3.PNG)
